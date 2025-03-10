@@ -10671,6 +10671,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
+    "criteria": {
+      "requirement": "2025-03-10 19:49:38 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/max_level": {
     "criteria": {
       "level": "2025-03-10 19:17:34 +0000"
