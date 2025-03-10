@@ -10665,6 +10665,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/max_level": {
+    "criteria": {
+      "level": "2025-03-10 19:17:34 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
     "criteria": {
       "scroll_forge": "2025-03-10 19:40:39 +0000"
@@ -10677,9 +10683,21 @@
     },
     "done": true
   },
-  "vampirism:vampire/max_level": {
+  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
     "criteria": {
-      "level": "2025-03-10 19:17:34 +0000"
+      "requirement": "2025-03-10 19:57:53 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-03-10 20:00:31 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
+    "criteria": {
+      "requirement": "2025-03-10 20:00:31 +0000"
     },
     "done": true
   },

@@ -1198,3 +1198,42 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [10Mar2025 20:00:25.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Creative Mode]
 [10Mar2025 20:00:31.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has completed the challenge [Staff of Blood]
 [10Mar2025 20:00:31.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has made the advancement [No Longer Short-Staffed]
+[10Mar2025 20:03:02.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Disconnected
+[10Mar2025 20:03:02.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[10Mar2025 20:03:02.634] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[10Mar2025 20:03:23.103] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.189.73.79:35669] logged in with entity id 9974 at (1390.0697067650028, 52.0, -552.2036975923088)
+[10Mar2025 20:03:23.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[10Mar2025 20:03:23.181] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[10Mar2025 20:03:23.182] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[10Mar2025 20:03:24.262] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[10Mar2025 20:03:24.263] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[10Mar2025 20:03:34.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Survival Mode]
+[10Mar2025 20:03:36.978] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Disconnected
+[10Mar2025 20:03:36.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[10Mar2025 20:03:36.978] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[10Mar2025 20:03:43.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Mar2025 20:03:43.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Mar2025 20:03:43.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Mar2025 20:03:43.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Mar2025 20:03:43.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Mar2025 20:03:44.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/tht:dimension
+[10Mar2025 20:03:44.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[10Mar2025 20:03:44.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[10Mar2025 20:03:44.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Mar2025 20:03:44.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Mar2025 20:03:44.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[10Mar2025 20:03:44.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[10Mar2025 20:03:44.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Mar2025 20:03:44.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dimension): All chunks are saved
+[10Mar2025 20:03:44.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[10Mar2025 20:03:44.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[10Mar2025 20:03:44.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Mar2025 20:03:44.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Mar2025 20:03:44.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[10Mar2025 20:03:44.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[10Mar2025 20:03:44.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Mar2025 20:03:44.517] [Server thread/INFO] [Framework/]: Unloading server configs...
+[10Mar2025 20:03:44.519] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[10Mar2025 20:03:44.521] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[10Mar2025 20:03:44.521] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[10Mar2025 20:03:44.545] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
