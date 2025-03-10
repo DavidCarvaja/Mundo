@@ -10665,5 +10665,11 @@
     },
     "done": true
   },
+  "vampirism:vampire/max_level": {
+    "criteria": {
+      "level": "2025-03-10 19:17:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

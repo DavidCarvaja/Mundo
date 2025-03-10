@@ -5857,3 +5857,52 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [10Mar2025 19:14:19.633] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
 [10Mar2025 19:14:19.685] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 3
 [10Mar2025 19:14:19.736] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1ece2ec0[id=<null>,name=elhodorogass,properties={},legacy=false] (/127.207.26.160:41727) lost connection: Disconnected
+[10Mar2025 19:14:35.810] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 60 messages to dispatch.
+[10Mar2025 19:14:35.841] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig refurbished_furniture:server' to 'framework:handshake' sequence 0
+[10Mar2025 19:14:35.882] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[10Mar2025 19:14:35.928] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[10Mar2025 19:14:35.981] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 3
+[10Mar2025 19:14:36.035] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@172f97af[id=<null>,name=elhodorogass,properties={},legacy=false] (/127.207.26.160:57465) lost connection: Disconnected
+[10Mar2025 19:15:20.083] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.AltarInfusionBlockEntity/]: Starting ritual for ServerPlayer['Dalej'/440, l='ServerLevel[world]', x=1393.41, y=52.00, z=-545.75]
+[10Mar2025 19:15:20.139] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.AltarInfusionBlockEntity/]: Ritual started
+[10Mar2025 19:15:40.078] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Dalej has new faction level vampirism:vampire 12
+[10Mar2025 19:15:49.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 19:15:49.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 19:15:51.965] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 60 messages to dispatch.
+[10Mar2025 19:15:51.984] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig refurbished_furniture:server' to 'framework:handshake' sequence 0
+[10Mar2025 19:15:52.041] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 1
+[10Mar2025 19:15:52.102] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 2
+[10Mar2025 19:15:52.345] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@40916d5d[id=<null>,name=elhodorogass,properties={},legacy=false] (/127.207.26.160:49847) lost connection: Disconnected
+[10Mar2025 19:15:52.350] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2060ms or 41 ticks
+[10Mar2025 19:15:52.405] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Mar2025 19:16:15.179] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.AltarInfusionBlockEntity/]: Starting ritual for ServerPlayer['Dalej'/440, l='ServerLevel[world]', x=1393.59, y=52.00, z=-545.94]
+[10Mar2025 19:16:15.223] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.AltarInfusionBlockEntity/]: Ritual started
+[10Mar2025 19:16:35.177] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Dalej has new faction level vampirism:vampire 13
+[10Mar2025 19:17:14.258] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.AltarInfusionBlockEntity/]: Starting ritual for ServerPlayer['Dalej'/440, l='ServerLevel[world]', x=1393.51, y=52.00, z=-545.78]
+[10Mar2025 19:17:14.276] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.AltarInfusionBlockEntity/]: Ritual started
+[10Mar2025 19:17:34.373] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Dalej has new faction level vampirism:vampire 14
+[10Mar2025 19:17:34.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has reached the goal [As Bloody as it Gets]
+[10Mar2025 19:18:02.385] [Server thread/WARN] [de.teamlapen.vampirism.network.ServerboundUnlockSkillPacket/]: Skill vampirism:blood_charge(SimpleVampireSkill) cannot be activated for ServerPlayer['Dalej'/440, l='ServerLevel[world]', x=1393.51, y=52.00, z=-545.78] (ALREADY_ENABLED)
+[10Mar2025 19:18:04.884] [Server thread/WARN] [de.teamlapen.vampirism.network.ServerboundUnlockSkillPacket/]: Skill vampirism:freeze(ActionSkill) cannot be activated for ServerPlayer['Dalej'/440, l='ServerLevel[world]', x=1393.51, y=52.00, z=-545.78] (ALREADY_ENABLED)
+[10Mar2025 19:18:04.980] [Server thread/WARN] [de.teamlapen.vampirism.network.ServerboundUnlockSkillPacket/]: Skill vampirism:freeze(ActionSkill) cannot be activated for ServerPlayer['Dalej'/440, l='ServerLevel[world]', x=1393.51, y=52.00, z=-545.78] (ALREADY_ENABLED)
+[10Mar2025 19:18:56.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Creative Mode]
+[10Mar2025 19:19:05.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Survival Mode]
+[10Mar2025 19:20:48.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 19:20:48.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 19:20:48.979] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2057ms or 41 ticks
+[10Mar2025 19:23:50.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Gave 1 experience points to Dalej]
+[10Mar2025 19:24:02.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Gave 12 experience levels to Dalej]
+[10Mar2025 19:24:08.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Gave 12 experience levels to Dalej]
+[10Mar2025 19:24:18.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Gave 12 experience levels to Dalej]
+[10Mar2025 19:24:19.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Gave 12 experience levels to Dalej]
+[10Mar2025 19:24:19.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Gave 12 experience levels to Dalej]
+[10Mar2025 19:24:21.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Gave 12 experience levels to Dalej]
+[10Mar2025 19:25:18.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Gave 10 [Book] to Dalej]
+[10Mar2025 19:25:48.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 19:25:48.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 19:28:49.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Gave 2 [Book] to Dalej]
+[10Mar2025 19:29:34.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Gave 12 experience levels to Dalej]
+[10Mar2025 19:29:35.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Gave 12 experience levels to Dalej]
+[10Mar2025 19:29:36.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Gave 12 experience levels to Dalej]
+[10Mar2025 19:29:36.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Gave 12 experience levels to Dalej]
+[10Mar2025 19:29:37.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Gave 12 experience levels to Dalej]
