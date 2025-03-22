@@ -1206,3 +1206,44 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Mar2025 05:08:11.118] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Timed out
 [22Mar2025 05:08:11.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
 [22Mar2025 05:08:11.120] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Asriel
+[22Mar2025 05:08:36.200] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3217d795[id=<null>,name=Dalej,properties={},legacy=false] (/127.92.84.230:53829): Took too long to log in
+[22Mar2025 05:08:36.201] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3217d795[id=<null>,name=Dalej,properties={},legacy=false] (/127.92.84.230:53829) lost connection: Took too long to log in
+[22Mar2025 05:08:36.243] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Mar2025 05:09:03.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.92.84.230:47905] logged in with entity id 13874 at (1205.190167564448, 121.0, 810.1964043196106)
+[22Mar2025 05:09:03.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[22Mar2025 05:09:03.263] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[22Mar2025 05:09:05.407] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[22Mar2025 05:09:05.407] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[22Mar2025 05:09:33.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[22Mar2025 05:09:33.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[22Mar2025 05:09:33.291] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[22Mar2025 05:11:01.764] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.92.84.230:58779] logged in with entity id 14215 at (1205.190167564448, 121.0, 810.1964043196106)
+[22Mar2025 05:11:01.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[22Mar2025 05:11:01.881] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[22Mar2025 05:11:02.753] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[22Mar2025 05:11:02.753] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[22Mar2025 05:11:15.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> was
+[22Mar2025 05:11:19.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> al fin pinga'
+[22Mar2025 05:11:41.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> media hora pa poder entrar
+[22Mar2025 05:11:48.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> DP
+[22Mar2025 05:13:10.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> papa puedo probar un hechizo
+[22Mar2025 05:13:33.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> solo quiero ver si solo te mantengo haber si te hago daño
+[22Mar2025 05:13:44.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> adelante
+[22Mar2025 05:14:11.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ok si te muevo por el aire no pasa nada
+[22Mar2025 05:14:28.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> me sirve pa ayudar a alguien a subir a algun lao
+[22Mar2025 05:15:12.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> aqui hay un waypoint por si lo quieres usar
+[22Mar2025 05:15:24.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ya yo estoy redy
+[22Mar2025 05:16:01.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> cuando el sol se oculte en el alba podra comenzar el combate
+[22Mar2025 05:16:32.289] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[22Mar2025 05:16:32.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[22Mar2025 05:16:32.290] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[22Mar2025 05:17:02.917] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.92.84.230:35245] logged in with entity id 15260 at (1195.4356623591862, 118.0, 817.4117964372023)
+[22Mar2025 05:17:02.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[22Mar2025 05:17:03.016] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[22Mar2025 05:17:03.024] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2130ms or 42 ticks
+[22Mar2025 05:17:08.347] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[22Mar2025 05:17:08.347] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[22Mar2025 05:17:31.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> volvi
+[22Mar2025 05:18:03.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> y donde lo hacemos
+[22Mar2025 05:18:18.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> por mi como si es aqui mismo
+[22Mar2025 05:18:35.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> prefiero un lugar mas abierto
