@@ -1134,3 +1134,75 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Mar2025 04:55:57.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> la tuya si ta wapa
 [22Mar2025 04:57:03.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ayudame a ver en los cofres si hay algun disco
 [22Mar2025 04:58:07.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> y esta musica
+[22Mar2025 04:58:13.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> la oyes?
+[22Mar2025 04:58:18.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> si
+[22Mar2025 04:58:31.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> debe ser algun mob o algo
+[22Mar2025 04:58:31.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> otia
+[22Mar2025 04:58:42.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> noc pero esta buena
+[22Mar2025 04:58:50.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> fr
+[22Mar2025 04:58:51.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> pega con mi castillo
+[22Mar2025 04:59:01.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> mi torre q diga
+[22Mar2025 04:59:06.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> se va xd
+[22Mar2025 04:59:44.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ahora hacemos un rital satanico
+[22Mar2025 04:59:57.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> xdddd
+[22Mar2025 05:00:54.847] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Disconnected
+[22Mar2025 05:00:54.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[22Mar2025 05:00:54.851] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[22Mar2025 05:00:54.905] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Mar2025 05:01:51.382] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asriel[/127.0.246.80:51217] logged in with entity id 9697 at (1080.90272737998, -23.0, 29.769293760860272)
+[22Mar2025 05:01:51.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel joined the game
+[22Mar2025 05:01:51.408] [Server thread/INFO] [Jade/]: Syncing config to Asriel (2fa8843a-67ac-3a12-937e-775dc123023f)
+[22Mar2025 05:01:52.303] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2832ms or 56 ticks
+[22Mar2025 05:01:53.357] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Asriel (18)
+[22Mar2025 05:01:53.358] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Asriel
+[22Mar2025 05:02:06.661] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.92.84.230:40289] logged in with entity id 10022 at (1202.5984573445555, 122.16610926093821, 803.6548670451176)
+[22Mar2025 05:02:06.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[22Mar2025 05:02:06.804] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[22Mar2025 05:02:07.718] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[22Mar2025 05:02:07.718] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[22Mar2025 05:02:37.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> salamaleco
+[22Mar2025 05:02:44.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> tu escucashte el gato?
+[22Mar2025 05:02:49.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> no
+[22Mar2025 05:02:51.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[22Mar2025 05:02:51.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[22Mar2025 05:02:51.806] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[22Mar2025 05:03:00.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> david ponme modo expectador
+[22Mar2025 05:03:06.535] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2028ms or 40 ticks
+[22Mar2025 05:03:26.975] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.92.84.230:59287] logged in with entity id 10885 at (1205.190167564448, 121.0, 810.1964043196106)
+[22Mar2025 05:03:26.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[22Mar2025 05:03:27.007] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[22Mar2025 05:03:32.042] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[22Mar2025 05:03:32.042] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[22Mar2025 05:03:57.060] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[22Mar2025 05:03:57.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[22Mar2025 05:03:57.061] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[22Mar2025 05:04:03.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> gracias muy util
+[22Mar2025 05:04:17.032] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2027ms or 40 ticks
+[22Mar2025 05:04:55.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> asere q buena está una mulata peliroja del 1
+[22Mar2025 05:05:00.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> un culodp
+[22Mar2025 05:05:01.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> SI
+[22Mar2025 05:05:11.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> y la otra mulata
+[22Mar2025 05:05:15.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> q no es peliroja
+[22Mar2025 05:05:27.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> q va con espejuelos y el pelo largo
+[22Mar2025 05:05:35.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> tawata tawata suavana suavana
+[22Mar2025 05:05:43.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> TAMBIEN
+[22Mar2025 05:05:58.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> y a david
+[22Mar2025 05:06:02.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel suffocated in a wall
+[22Mar2025 05:06:03.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> mala noticia
+[22Mar2025 05:06:08.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> Q
+[22Mar2025 05:06:12.334] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2688ms or 53 ticks
+[22Mar2025 05:06:23.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> peldi nugue
+[22Mar2025 05:06:28.529] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2128ms or 42 ticks
+[22Mar2025 05:06:31.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Disconnected
+[22Mar2025 05:06:31.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
+[22Mar2025 05:06:31.396] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Asriel
+[22Mar2025 05:06:44.268] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2338ms or 46 ticks
+[22Mar2025 05:07:41.014] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Asriel[/127.0.246.80:50505] logged in with entity id 13229 at (1201.3025985468648, 126.02442499995232, 782.2285576562633)
+[22Mar2025 05:07:41.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel joined the game
+[22Mar2025 05:07:41.096] [Server thread/INFO] [Jade/]: Syncing config to Asriel (2fa8843a-67ac-3a12-937e-775dc123023f)
+[22Mar2025 05:07:42.059] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Asriel (18)
+[22Mar2025 05:07:42.059] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Asriel
+[22Mar2025 05:08:08.649] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2276ms or 45 ticks
+[22Mar2025 05:08:11.118] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel lost connection: Timed out
+[22Mar2025 05:08:11.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel left the game
+[22Mar2025 05:08:11.120] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Asriel
