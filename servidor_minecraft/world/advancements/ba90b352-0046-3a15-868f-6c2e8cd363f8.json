@@ -11053,6 +11053,12 @@
     },
     "done": true
   },
+  "call_of_yucutan:obtain_both_discs": {
+    "criteria": {
+      "xibalba": "2025-02-23 12:35:48 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-02-23 12:47:44 +0000"
@@ -11070,12 +11076,6 @@
       "has_smooth_stone": "2025-02-23 12:47:44 +0000"
     },
     "done": true
-  },
-  "call_of_yucutan:obtain_both_discs": {
-    "criteria": {
-      "xibalba": "2025-02-23 12:35:48 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3465
 }
