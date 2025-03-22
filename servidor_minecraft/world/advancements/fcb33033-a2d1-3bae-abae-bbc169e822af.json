@@ -10702,5 +10702,53 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-03-22 05:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-03-22 05:37:26 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/infinite_potential": {
+    "criteria": {
+      "inventory_changed": "2025-03-22 05:39:31 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/misc/formidibomb": {
+    "criteria": {
+      "has_the_recipe": "2025-03-22 05:39:31 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/misc/super_tnt": {
+    "criteria": {
+      "has_command_block_book": "2025-03-22 05:39:31 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/nearly_kill_wither_storm": {
+    "criteria": {
+      "nearly_kill_wither_storm": "2025-03-22 05:42:49 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/fbomb": {
+    "criteria": {
+      "inventory_changed": "2025-03-22 05:43:52 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/escape_wither_storm": {
+    "criteria": {
+      "escape_wither_storm": "2025-03-22 05:44:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -1311,3 +1311,328 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Mar2025 05:28:31.149] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
 [22Mar2025 05:29:00.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> david
 [22Mar2025 05:29:05.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> lelelelele
+[22Mar2025 05:29:12.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> lelelelellel
+[22Mar2025 05:29:13.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> mira, no ando a esperar a que anochezca
+[22Mar2025 05:29:18.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set the time to 13000]
+[22Mar2025 05:29:25.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> MADE IN HEAVEN
+[22Mar2025 05:29:58.869] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=211, y=80, z=-80} BlockPos{x=212, y=78, z=-79}
+[22Mar2025 05:29:58.909] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=211, y=80, z=-80} BlockPos{x=212, y=78, z=-79}
+[22Mar2025 05:29:58.970] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=211, y=80, z=-80} BlockPos{x=212, y=78, z=-79}
+[22Mar2025 05:30:02.170] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=212, y=80, z=-87} BlockPos{x=211, y=78, z=-88}
+[22Mar2025 05:30:19.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> el q me toque pierde
+[22Mar2025 05:30:22.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> fajense
+[22Mar2025 05:30:25.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> 3
+[22Mar2025 05:30:25.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> Ariel sera el juez
+[22Mar2025 05:30:25.292] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[22Mar2025 05:30:25.292] [Server thread/WARN] [de.teamlapen.werewolves.entities.ModEntityEventHandler/]: Could not replace skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[22Mar2025 05:30:25.293] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[22Mar2025 05:30:25.293] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[22Mar2025 05:30:27.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> 2
+[22Mar2025 05:30:28.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> 1
+[22Mar2025 05:30:29.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was skewered by Dalej's blood needles
+[22Mar2025 05:30:30.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ya
+[22Mar2025 05:30:35.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> XDDDDDDDDDDDDDDDDDDDDDDDDDD
+[22Mar2025 05:30:36.986] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2082ms or 41 ticks
+[22Mar2025 05:30:47.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> te lo dije eduardo q te iban a despingar
+[22Mar2025 05:30:49.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> cojone
+[22Mar2025 05:30:54.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel has made the advancement [Quite the Walking Stick]
+[22Mar2025 05:30:54.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel has made the advancement [No Longer Short-Staffed]
+[22Mar2025 05:30:56.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> me pase
+[22Mar2025 05:31:01.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> xdddd
+[22Mar2025 05:31:19.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> eduardo
+[22Mar2025 05:31:20.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel was skewered by Dalej's blood needles
+[22Mar2025 05:31:30.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> sorry
+[22Mar2025 05:31:32.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> los hechizos tuyos no le hacen una pinga
+[22Mar2025 05:31:34.655] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2195ms or 43 ticks
+[22Mar2025 05:31:37.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> make tp
+[22Mar2025 05:31:49.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Teleported Asriel to Dalej]
+[22Mar2025 05:32:18.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> el
+[22Mar2025 05:32:20.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> que
+[22Mar2025 05:32:48.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was slain by Dalej
+[22Mar2025 05:32:58.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> estoy en xvideos?
+[22Mar2025 05:33:06.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> eduardo david tiene toda la vida
+[22Mar2025 05:33:32.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> y eso que no he acrivado la furia vampiro
+[22Mar2025 05:33:32.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> yo te dije q tu estrategia se demoraba mucho
+[22Mar2025 05:33:34.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> david coño
+[22Mar2025 05:34:00.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> mira, pa que este mas igualado
+[22Mar2025 05:34:00.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> eduardo
+[22Mar2025 05:34:07.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> no voy a usar hechizos
+[22Mar2025 05:34:09.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> tienes a mahoraga?
+[22Mar2025 05:34:25.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> pero si habilidades del vampirism
+[22Mar2025 05:34:30.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> vami
+[22Mar2025 05:34:33.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> fajanse
+[22Mar2025 05:34:34.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ya
+[22Mar2025 05:35:42.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax was slain by Dalej
+[22Mar2025 05:35:44.534] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.hunter.HunterPlayer/]: Cannot get Hunter player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.player.hunter.HunterPlayer.getOpt(HunterPlayer.java:78) ~[Vampirism-1.20.1-1.10.12.jar%23295!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.entity.player.ModPlayerEventHandler.onLivingAttack(ModPlayerEventHandler.java:321) ~[Vampirism-1.20.1-1.10.12.jar%23295!/:1.20.1-1.10.12]
+	at de.teamlapen.vampirism.entity.player.__ModPlayerEventHandler_onLivingAttack_LivingAttackEvent.invoke(.dynamic) ~[Vampirism-1.20.1-1.10.12.jar%23295!/:1.20.1-1.10.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlayerAttack(ForgeHooks.java:274) ~[forge-1.20.1-47.3.7-universal.jar%23310!/:?]
+	at net.minecraft.world.entity.player.Player.m_6469_(Player.java:812) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_6469_(ServerPlayer.java:695) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at io.redspace.ironsspellbooks.damage.DamageSources.applyDamage(DamageSources.java:69) ~[irons_spellbooks-1.20.1-3.4.0.7.jar%23244!/:1.20.1-3.4.0.7]
+	at io.redspace.ironsspellbooks.api.util.Utils.doMeleeAttack(Utils.java:426) ~[irons_spellbooks-1.20.1-3.4.0.7.jar%23244!/:1.20.1-3.4.0.7]
+	at io.redspace.ironsspellbooks.entity.mobs.SummonedZombie.m_7327_(SummonedZombie.java:148) ~[irons_spellbooks-1.20.1-3.4.0.7.jar%23244!/:1.20.1-3.4.0.7]
+	at net.minecraft.world.entity.ai.goal.MeleeAttackGoal.m_6739_(MeleeAttackGoal.java:147) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.ai.goal.MeleeAttackGoal.m_8037_(MeleeAttackGoal.java:138) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.ai.goal.WrappedGoal.m_8037_(WrappedGoal.java:65) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.ai.goal.GoalSelector.m_186081_(GoalSelector.java:120) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.Mob.m_6140_(Mob.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8107_(LivingEntity.java:2548) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.Mob.m_8107_(Mob.java:536) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.monster.Monster.m_8107_(Monster.java:42) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.monster.Zombie.m_8107_(Zombie.java:236) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2298) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:337) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.entity.monster.Zombie.m_8119_(Zombie.java:210) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at io.redspace.ironsspellbooks.entity.mobs.SummonedZombie.m_8119_(SummonedZombie.java:171) ~[irons_spellbooks-1.20.1-3.4.0.7.jar%23244!/:1.20.1-3.4.0.7]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:479) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23305!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[22Mar2025 05:36:24.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> david tu le podrias ganar al wither storm?
+[22Mar2025 05:36:32.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> puede ser
+[22Mar2025 05:36:46.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> le damos un final epico a esta mierda??
+[22Mar2025 05:36:46.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Asriel fell from a high place
+[22Mar2025 05:36:47.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> y ariel
+[22Mar2025 05:36:51.880] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2292ms or 45 ticks
+[22Mar2025 05:36:56.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Teleported Asriel to Dalej]
+[22Mar2025 05:37:01.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> papa
+[22Mar2025 05:37:06.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> desquitandose conmigo pq con david no puede
+[22Mar2025 05:37:07.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> no movi nada
+[22Mar2025 05:37:09.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> cua cua cua
+[22Mar2025 05:37:13.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ntp
+[22Mar2025 05:37:24.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> como q davi pesa ma
+[22Mar2025 05:37:26.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Gave 3 [Soul Sand] to Dalej]
+[22Mar2025 05:37:39.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> cuando lo levanto noc mueve
+[22Mar2025 05:37:40.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Gave 1 [Command Block] to Dalej]
+[22Mar2025 05:37:43.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> papa ariel
+[22Mar2025 05:37:49.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> david dame permisos de comandos
+[22Mar2025 05:37:51.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> pa donde te mande
+[22Mar2025 05:37:53.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Gave 3 [Wither Skeleton Skull] to Dalej]
+[22Mar2025 05:37:56.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> no voy a usar barra kill ni clear
+[22Mar2025 05:37:58.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> otia
+[22Mar2025 05:38:01.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> usa el comando summon
+[22Mar2025 05:38:02.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set Asriel's game mode to Spectator Mode]
+[22Mar2025 05:38:08.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set the time to 13000]
+[22Mar2025 05:38:10.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> y ya, no te compliques
+[22Mar2025 05:38:12.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> bue
+[22Mar2025 05:38:17.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> oita
+[22Mar2025 05:38:18.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Creative Mode]
+[22Mar2025 05:38:19.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> se preocupaba mi salud
+[22Mar2025 05:38:23.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Survival Mode]
+[22Mar2025 05:38:31.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> MAHORAGA
+[22Mar2025 05:38:49.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> amazing
+[22Mar2025 05:38:50.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> david sabes q puedo ver tu pov?
+[22Mar2025 05:38:54.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> si
+[22Mar2025 05:38:57.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Creative Mode]
+[22Mar2025 05:39:02.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> voy a ver si puedo ver el del wither storm
+[22Mar2025 05:39:04.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> invocalo
+[22Mar2025 05:39:19.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> que epica fue ver la pelea
+[22Mar2025 05:39:21.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> plp
+[22Mar2025 05:39:31.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has made the advancement [Infinite Potential]
+[22Mar2025 05:39:40.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> parecia el de jjk que crea plantas y eso
+[22Mar2025 05:39:50.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> como pinga invoco al tormeta wither
+[22Mar2025 05:39:53.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> contra todou e itadori
+[22Mar2025 05:39:58.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> dame permisos de comandos
+[22Mar2025 05:40:03.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> yo lo invoco
+[22Mar2025 05:40:06.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> hasle el summon
+[22Mar2025 05:40:10.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> exacto
+[22Mar2025 05:40:12.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Made Asriel a server operator]
+[22Mar2025 05:40:25.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Survival Mode]
+[22Mar2025 05:40:33.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asriel: Summoned new Wither Storm]
+[22Mar2025 05:40:39.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> es la pinga
+[22Mar2025 05:40:43.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> PLP
+[22Mar2025 05:40:47.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> deja q entre en fase
+[22Mar2025 05:40:51.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> no lo mates ahora
+[22Mar2025 05:41:11.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ok
+[22Mar2025 05:42:43.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> PINGA BOLA E CARNE
+[22Mar2025 05:42:49.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> se lo singa en ael aire
+[22Mar2025 05:42:49.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has completed the challenge [A Nasty Surprise]
+[22Mar2025 05:42:50.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> espera
+[22Mar2025 05:42:52.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ahora
+[22Mar2025 05:42:55.705] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2017ms or 40 ticks
+[22Mar2025 05:42:57.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> cojone
+[22Mar2025 05:42:59.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> es q empieza
+[22Mar2025 05:43:03.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> el hueso lo movi
+[22Mar2025 05:43:06.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> el verdadero witherstorm
+[22Mar2025 05:43:16.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> aclamados guerreros
+[22Mar2025 05:43:25.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> sean bienvenidos al evento final
+[22Mar2025 05:43:32.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> las estrellas se alinearon
+[22Mar2025 05:43:33.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! -6.457372236532279,14.279806678920181,9.899602831558788
+[22Mar2025 05:43:42.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> en el equinoxio de primavera
+[22Mar2025 05:43:45.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Creative Mode]
+[22Mar2025 05:43:52.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has made the advancement [F-Bomb]
+[22Mar2025 05:43:56.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Survival Mode]
+[22Mar2025 05:43:59.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> no
+[22Mar2025 05:44:03.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> david va a usar
+[22Mar2025 05:44:04.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> :)
+[22Mar2025 05:44:09.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> la ultima defensa
+[22Mar2025 05:44:15.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> que le queda a la humanidad
+[22Mar2025 05:44:25.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> logrará la humanidad repoblar el mundo
+[22Mar2025 05:44:28.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> corrompido?
+[22Mar2025 05:44:34.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> lo veremos en el siguiente server
+[22Mar2025 05:44:54.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has reached the goal [Brushing Shoulders With Death]
+[22Mar2025 05:45:00.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> no dejare q me lleve
+[22Mar2025 05:45:42.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> activa la bomba david
+[22Mar2025 05:45:46.941] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[22Mar2025 05:45:46.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[22Mar2025 05:45:46.941] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[22Mar2025 05:45:46.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej died
+[22Mar2025 05:45:53.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> otia
+[22Mar2025 05:45:55.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> eduardo
+[22Mar2025 05:45:59.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> q necesitasç
+[22Mar2025 05:46:03.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ya esta actuva
+[22Mar2025 05:46:06.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> escribe a si necesitas ayuda
+[22Mar2025 05:46:09.017] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.92.84.230:50837] logged in with entity id 52437 at (184.46737119898063, 90.0, -22.573041837255833)
+[22Mar2025 05:46:09.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[22Mar2025 05:46:09.110] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[22Mar2025 05:46:09.953] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[22Mar2025 05:46:09.954] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[22Mar2025 05:46:11.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> otia
+[22Mar2025 05:46:29.602] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2438ms or 48 ticks
+[22Mar2025 05:46:29.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel moved too quickly! -0.08561737323802276,3.938724596574872,9.868025514716589
+[22Mar2025 05:46:51.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> lo hare por un mundo mejor
+[22Mar2025 05:46:54.194] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[22Mar2025 05:46:54.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[22Mar2025 05:46:54.195] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[22Mar2025 05:47:01.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> david es el unico ser capaz de vencerlo
+[22Mar2025 05:47:05.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> o eso se creía
+[22Mar2025 05:47:16.256] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@677bf113[id=<null>,name=Dalej,properties={},legacy=false] (/127.92.84.230:53735) lost connection: Disconnected
+[22Mar2025 05:47:18.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> hasta que llego eduardo con su artefacto robado de las fauces del castillo
+[22Mar2025 05:47:31.714] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.92.84.230:53933] logged in with entity id 57885 at (1072.5, 40.0, -439.5)
+[22Mar2025 05:47:31.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[22Mar2025 05:47:31.751] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[22Mar2025 05:47:32.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 9.919355666665183,-9.546290472658313,-11.419783363330888
+[22Mar2025 05:47:32.544] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[22Mar2025 05:47:32.545] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[22Mar2025 05:47:49.337] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2456ms or 49 ticks
+[22Mar2025 05:47:50.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel moved too quickly! 10.852223329357116,0.0,0.6934462460034752
+[22Mar2025 05:47:50.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! -17.051760329076558,-4.034834724421401,1.2325897391974863
+[22Mar2025 05:47:57.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej did not like the sun
+[22Mar2025 05:47:58.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set the time to 13000]
+[22Mar2025 05:48:01.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> soy capaz de llevarmelo
+[22Mar2025 05:48:05.460] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2077ms or 41 ticks
+[22Mar2025 05:48:11.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> ariel viste eso
+[22Mar2025 05:48:13.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> se escribe do i not like the sun
+[22Mar2025 05:48:19.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> o i dont like
+[22Mar2025 05:48:23.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> si asere lo vi
+[22Mar2025 05:48:26.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> el gueso
+[22Mar2025 05:48:26.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> donde me mori
+[22Mar2025 05:48:34.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> dios sabrá
+[22Mar2025 05:48:37.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Gave 1 [Flint and Steel] to Dalej]
+[22Mar2025 05:48:37.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> papa una cosa
+[22Mar2025 05:48:38.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> yo ni te vi
+[22Mar2025 05:48:42.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> david
+[22Mar2025 05:48:47.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> despues de perderlo todo
+[22Mar2025 05:48:52.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> decide sacrificarse a el
+[22Mar2025 05:48:55.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> a su aldea
+[22Mar2025 05:48:59.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> por salvar el mundo
+[22Mar2025 05:49:03.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> de la wither storm
+[22Mar2025 05:49:26.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> ariel, trae al wither storm
+[22Mar2025 05:49:32.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> soy Tity
+[22Mar2025 05:49:37.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> david mirale
+[22Mar2025 05:49:50.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Creative Mode]
+[22Mar2025 05:49:58.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Survival Mode]
+[22Mar2025 05:49:59.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> como
+[22Mar2025 05:50:23.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej experienced a catastrophic explosion
+[22Mar2025 05:50:23.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax experienced a catastrophic explosion
+[22Mar2025 05:50:23.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Asriel moved too quickly! -5.023346235318854,3.3750001339496833,8.003874969808958
+[22Mar2025 05:50:23.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -3.10810074153909,1.8787031594607981,9.364659737692177
+[22Mar2025 05:50:23.773] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 17949ms or 358 ticks
+[22Mar2025 05:50:23.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17552ms or 351 ticks behind
+[22Mar2025 05:50:24.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 17.386090026905777,-1.0,-4.264897626800646
+[22Mar2025 05:50:24.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> denle al f1
+[22Mar2025 05:50:45.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> no fue posble detener al wither storm
+[22Mar2025 05:50:51.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> sigue vivo?
+[22Mar2025 05:50:58.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> si
+[22Mar2025 05:51:01.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> intacto
+[22Mar2025 05:51:14.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> la tnt no hizo nada?
+[22Mar2025 05:51:24.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> otia
+[22Mar2025 05:51:24.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> explotó y dejó un crater
+[22Mar2025 05:51:29.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Creative Mode]
+[22Mar2025 05:51:35.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> canonicamente el wither storm es inmortal
+[22Mar2025 05:51:36.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> q esperabas
+[22Mar2025 05:51:38.113] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/95114, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[22Mar2025 05:51:38.114] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/95114, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[22Mar2025 05:51:38.114] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['Ken'/95114, l='ServerLevel[world]', x=171.30, y=179.31, z=217.42].
+[22Mar2025 05:51:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Survival Mode]
+[22Mar2025 05:51:57.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Creative Mode]
+[22Mar2025 05:51:58.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asriel: Set own game mode to Creative Mode]
+[22Mar2025 05:52:07.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Teleported morax to Dalej]
+[22Mar2025 05:52:10.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: morax fell from a high place
+[22Mar2025 05:52:16.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> otra ve
+[22Mar2025 05:52:25.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Teleported morax to Dalej]
+[22Mar2025 05:52:34.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> por algo este bicho es el ultimo boss
+[22Mar2025 05:52:38.447] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Denji[/127.238.236.240:58023] logged in with entity id 98806 at (1480.1695670377264, 147.35930989266336, 1635.1629198049739)
+[22Mar2025 05:52:38.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Denji joined the game
+[22Mar2025 05:52:38.464] [Server thread/INFO] [Jade/]: Syncing config to Denji (dd4d7dac-9e90-3ed5-b6ec-ad37614f5e06)
+[22Mar2025 05:52:38.476] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2157ms or 43 ticks
+[22Mar2025 05:52:46.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> yo me lo puedo llevar
+[22Mar2025 05:52:48.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> xddddd
+[22Mar2025 05:52:53.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> deja de Diego vea esto
+[22Mar2025 05:52:59.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asriel: Set Denji's game mode to Creative Mode]
+[22Mar2025 05:53:03.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> por tu bien diego
+[22Mar2025 05:53:05.270] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/100705, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[22Mar2025 05:53:05.270] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/100705, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[22Mar2025 05:53:05.270] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['Ken'/100705, l='ServerLevel[world]', x=171.30, y=179.31, z=217.42].
+[22Mar2025 05:53:10.374] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/101100, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[22Mar2025 05:53:10.374] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/101100, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[22Mar2025 05:53:10.374] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['Ken'/101100, l='ServerLevel[world]', x=171.30, y=179.31, z=217.42].
+[22Mar2025 05:53:17.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Survival Mode]
+[22Mar2025 05:53:18.820] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2100ms or 42 ticks
+[22Mar2025 05:53:22.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[22Mar2025 05:53:30.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asriel: Teleported Asriel to Denji]
+[22Mar2025 05:53:36.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> pinga es al reves
+[22Mar2025 05:53:40.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2310ms or 46 ticks behind
+[22Mar2025 05:53:42.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> abla
+[22Mar2025 05:53:55.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asriel: Teleported Asriel to Dalej]
+[22Mar2025 05:54:02.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Asriel: Teleported Denji to Asriel]
+[22Mar2025 05:54:02.921] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for HumanoidSlim['entity.easy_npc.humanoid_slim'/105100, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[22Mar2025 05:54:02.921] [Server thread/INFO] [Easy NPC/]: Register default handler for HumanoidSlim['entity.easy_npc.humanoid_slim'/105100, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant ALEX ...
+[22Mar2025 05:54:02.921] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for HumanoidSlim['Ken'/105100, l='ServerLevel[world]', x=171.30, y=186.36, z=226.90].
+[22Mar2025 05:54:07.556] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2056ms or 41 ticks
+[22Mar2025 05:54:19.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> ño
+[22Mar2025 05:54:22.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> diego saca cap
+[22Mar2025 05:54:27.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> tu q juegas con shaders
+[22Mar2025 05:54:37.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set the weather to clear]
+[22Mar2025 05:55:02.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 0.0,-11.558953062305562,0.0
+[22Mar2025 05:55:17.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> pp quien esta
+[22Mar2025 05:55:43.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej experienced a catastrophic explosion at the hands of Wither Storm
+[22Mar2025 05:55:43.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: morax moved too quickly! 6.590732736888839,-10.701160502520764,-13.01776946766691
+[22Mar2025 05:55:43.263] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 16012ms or 320 ticks
+[22Mar2025 05:55:43.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14842ms or 296 ticks behind
+[22Mar2025 05:55:43.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Teleported Dalej to Asriel]
+[22Mar2025 05:55:44.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> castillo final phase
+[22Mar2025 05:55:55.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! 0.0,-10.806526110008988,0.0
+[22Mar2025 05:56:09.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dalej> asere, que no se muere el bicho
+[22Mar2025 05:56:13.302] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej lost connection: Timed out
+[22Mar2025 05:56:13.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej left the game
+[22Mar2025 05:56:13.302] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dalej
+[22Mar2025 05:56:38.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> tas bien diego?
+[22Mar2025 05:56:51.729] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dalej[/127.92.84.230:38517] logged in with entity id 118424 at (199.0, 72.33293275542411, 116.0)
+[22Mar2025 05:56:51.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej joined the game
+[22Mar2025 05:56:51.810] [Server thread/INFO] [Jade/]: Syncing config to Dalej (fcb33033-a2d1-3bae-abae-bbc169e822af)
+[22Mar2025 05:56:52.718] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dalej (18)
+[22Mar2025 05:56:52.718] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dalej
+[22Mar2025 05:57:05.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dalej: Set own game mode to Creative Mode]
+[22Mar2025 05:57:09.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dalej moved too quickly! -2.853515636148501,5.250000202124809,8.718453947744152
+[22Mar2025 05:57:20.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> como pinga ahcemos
+[22Mar2025 05:57:36.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> hay un encantamiento q esdel mod
+[22Mar2025 05:57:43.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> q es pa eso creo
+[22Mar2025 05:58:33.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Denji> no le puedo hacer dano
+[22Mar2025 05:58:53.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Asriel> que pinga
+[22Mar2025 05:59:00.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dalej has made the advancement [Bakuretsu, Bakuretsu..]
+[22Mar2025 05:59:01.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <morax> acere soy el unico normal
+[22Mar2025 05:59:24.684] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2103ms or 42 ticks
